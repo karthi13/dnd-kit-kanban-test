@@ -1,0 +1,8 @@
+.Column {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 300px;
+    background-color: lightgray;
+    gap: 10px;
+}
